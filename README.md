@@ -14,7 +14,7 @@
 
 | FE | FE | BE | BE | GAME |
 |:---:|:---:|:---:|:---:|:---:|
-| キム・デソン | ノ・ギフン | キム・ソンウ | チ・ウリム | チェ・イェチャン |
+| 丸内大成 | ノ・ギフン | キム・ソンウ | チ・ウリム | チェ・イェチャン |
 | <img width="130px" src="https://avatars.githubusercontent.com/u/131854855?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/66203019?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/114386406?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/78469127?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/75158889?v=4" /> |
 | [@KimMaru](https://github.com/Kimxxunu) | [@Nohgh](https://github.com/Nohgh) | [@Kimxxunu](https://github.com/Kimxxunu) | [@jiurim](https://github.com/jiurim) | [@Yechan Choi](https://github.com/Mellow1213) |
 
